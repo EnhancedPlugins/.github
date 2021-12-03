@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/blockiindahood" target="blank"><img src="https://img.shields.io/twitter/follow/blockiindahood?logo=twitter&style=for-the-badge" alt="blockiindahood" /></a> </p>
 
-- 🔭 I’m currently working on **EnhanchedPlugins**
+- 🔭 I’m currently working on **EnhancedPlugins**
 
 - 🌱 I’m currently learning **nothing new :)**
 
